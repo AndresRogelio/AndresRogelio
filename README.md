@@ -9,7 +9,7 @@ Soy estudiante de ingeniería ambiental en la Universidad Tecnológica de Panam�
 ## 📚 Intereses
 - Análisis de datos con RStudio
 - Aprendizaje de R y Python
-- Investigación en el área ambiental
+- Investigación.
 
 ## 💻 Proyectos destacados
 
