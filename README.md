@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> Hola 👋, soy Andrés Santamaría, estudiante de ingeniería ambiental en la Universidad Tecnológica de Panamá </h1>
+  <h1> Hola 👋, soy Andrés Santamaría </h1>
   <ul>
 </div>
 
