@@ -51,7 +51,7 @@ Soy estudiante de ingeniería ambiental en la Universidad Tecnológica de Panam�
 </div>
 
 ## 💻📊 Publicaciones
-- [Determinación de los cambios en la linea costera en una playa del pacífico panameño utilizando herramientas de código abierto](congreso.utp.ac.pa): *Proximamente...*.
+- [Determinación de los cambios en la linea costera en una playa del pacífico panameño utilizando herramientas de código abierto](https://github.com/AndresRogelio/ODSAS): *Proximamente...*.
 
 ## 📫 Contacto
 Puedes comunicarte conmigo a través de:
