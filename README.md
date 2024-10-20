@@ -1,4 +1,7 @@
-# 👋 Hola, soy Andrés Santamaría
+<div align="center">
+  <h1> Hola 👋, soy Andrés Santamaría, estudiante de ingeniería ambiental en la Universidad Tecnológica de Panamá </h1>
+  <ul>
+</div>
 
 ## 🌱 Sobre Mí
 Soy estudiante de ingeniería ambiental en la Universidad Tecnológica de Panamá, interesado en el análisis de datos, sistemas de información geográfica y la investigación ambiental.
