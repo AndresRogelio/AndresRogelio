@@ -63,11 +63,11 @@ Puedes comunicarte conmigo a través de:
         </td>
         <td style="border: none; text-align: center;">
             <strong>LinkedIn</strong><br>
-            <a href="https://www.linkedin.com/in/andrés-santamaría-8273aa27a/" target="_blank">Perfil de LinkedIn</a>
+            <a href="https://www.linkedin.com/in/andrés-santamaría-8273aa27a/" target="_blank">in/andrés-santamaría-8273aa27a/</a>
         </td>
         <td style="border: none; text-align: center;">
             <strong>ResearchGate</strong><br>
-            <a href="https://www.researchgate.net/profile/Andres-Santamaria-2" target="_blank">Perfil de ResearchGate</a>
+            <a href="https://www.researchgate.net/profile/Andres-Santamaria-" target="_blank">/profile/Andres-Santamaria-2</a>
         </td>
     </tr>
 </table>
