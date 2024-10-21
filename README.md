@@ -4,7 +4,7 @@
 </div>
 
 ## 🌱 Sobre Mí
-Soy estudiante de ingeniería ambiental en la Universidad Tecnológica de Panamá, interesado en el análisis de datos, sistemas de información geográfica y la investigación ambiental.
+Soy estudiante de ingeniería ambiental en la Universidad Tecnológica de Panamá, Tesista dentro del proyecto IDDS22-16 "Diagnóstico de zonas costeras para el reporte de indicadores para el ODS 14 (vida submarina)".
 
 ## 📚 Intereses
 - Análisis de datos con RStudio 📈.
