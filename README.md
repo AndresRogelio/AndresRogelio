@@ -55,11 +55,32 @@ Soy estudiante de ingeniería ambiental en la Universidad Tecnológica de Panam�
 
 ## 📫 Contacto
 Puedes comunicarte conmigo a través de:
-- Correo: andres.santamaria@utp.ac.pa
-- [LinkedIn](https://www.linkedin.com/in/andrés-santamaría-8273aa27a/)
-- [ResearchGate](https://www.researchgate.net/profile/Andres-Santamaria-2)
+<table style="width: 100%; border-collapse: collapse;">
+    <tr>
+        <td style="border: none; text-align: center;">
+            <strong>Correo:</strong><br>
+            andres.santamaria@utp.ac.pa
+        </td>
+        <td style="border: none; text-align: center;">
+            <strong>LinkedIn</strong><br>
+            <a href="https://www.linkedin.com/in/andrés-santamaría-8273aa27a/" target="_blank">Perfil de LinkedIn</a>
+        </td>
+        <td style="border: none; text-align: center;">
+            <strong>ResearchGate</strong><br>
+            <a href="https://www.researchgate.net/profile/Andres-Santamaria-2" target="_blank">Perfil de ResearchGate</a>
+        </td>
+    </tr>
+</table>
 
-![Punta Galeta](https://media.telemetro.com/p/ecd2cd2324d3bb565414bf7e670ddfe6/adjuntos/311/imagenes/001/441/0001441925/1200x675/smart/el-abogado-harley-mitchell-moran-advirtio-los-riesgos-aprobarse-un-permiso-la-realizacion-bunkering-la-bahia-las-minas.jpg)
+## 📷 Galería
+![image](https://github.com/user-attachments/assets/52e7cda3-a8a6-47fd-9c06-82e62e6504ae)
+![image](https://github.com/user-attachments/assets/634c561b-d39b-4685-b4cd-ce7c00834897)
+![image](https://github.com/user-attachments/assets/48406162-4632-4983-9208-c8ac6a637c7c)
+![image](https://github.com/user-attachments/assets/8ad5a7ae-ff6c-4b17-aaad-f74429193da0)
+![image](https://github.com/user-attachments/assets/4309e1a1-cf13-45da-962a-3827d400f6eb)
+*Fotografias tomadas por mi compañera de tesis, **Yanis Caballero**.*
+
+
 
 
 
