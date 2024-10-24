@@ -78,7 +78,7 @@ Puedes comunicarte conmigo a través de:
 ![image](https://github.com/user-attachments/assets/48406162-4632-4983-9208-c8ac6a637c7c)
 ![image](https://github.com/user-attachments/assets/8ad5a7ae-ff6c-4b17-aaad-f74429193da0)
 ![image](https://github.com/user-attachments/assets/7bd75b4d-4d70-4d92-a696-8942221c8f30)
-*Fotografias tomadas por mi compañera de tesis, **[Yanis Caballero](https://github.com/Yanis0505)**.*
+*Fotografias tomadas por mi compañera de tesis, **[Yanis Caballero](https://github.com/Yanis0505)** y mi pareja, **Katherine Rios**.*
 
 
 
