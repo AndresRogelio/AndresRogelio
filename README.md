@@ -18,7 +18,7 @@ Me especializo en el uso de **teledetección** y análisis de datos con **R y Py
 
 ## 🔬 Investigación Activa
 
-### 🏖️ Dinámica de la Línea de Costa (IDDS22-16)
+### 🏖️ Dinámica de la Línea de Costa
 Evaluación de tasas de erosión/acreción en una playa del Pacífico panameño utilizando **ODSAS**.
 > 🔒 *Repositorio privado por publicación en curso.*
 
