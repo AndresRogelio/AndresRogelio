@@ -4,7 +4,7 @@
 
 Soy **Ingeniero Ambiental** (en formación) por la **Universidad Tecnológica de Panamá**. Actualmente, me desempeño como Tesista en el proyecto **IDDS22-16 SENACYT**, donde trabajo en el diagnóstico de zonas costeras para el **ODS 14**. 
 
-Me especializo en el uso de **teledetección (Sentinel/Landsat)** y análisis de datos con **R y Python** para el monitoreo de ecosistemas acuáticos en Panamá.
+Me especializo en el uso de **teledetección** y análisis de datos con **R y Python** para el monitoreo de ecosistemas acuáticos en Panamá.
 
 ---
 
@@ -13,7 +13,6 @@ Me especializo en el uso de **teledetección (Sentinel/Landsat)** y análisis de
 - 🌊 **Oceanografía Satelital:** Monitoreo de Chl-a y calidad de agua.
 - 📈 **Data Science Ambiental:** Análisis de series temporales y datos acústicos.
 - 🐍 **Programación:** Desarrollo de flujos de trabajo reproducibles en R y Python.
-- 🌍 **Cambio climático**
 
 ---
 
